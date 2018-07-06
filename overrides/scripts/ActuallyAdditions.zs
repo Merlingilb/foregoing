@@ -2,7 +2,7 @@ recipes.remove(<actuallyadditions:block_atomic_reconstructor>);
 recipes.addShaped(<actuallyadditions:block_atomic_reconstructor>, 
 	[	
 		[<immersiveengineering:metal:8>,<minecraft:redstone>,<immersiveengineering:metal:8>], 
-		[<minecraft:redstone>,<actuallyadditions:block_misc:9>,<minecraft:redstone>], 
+		[<minecraft:redstone>,<actuallyadditions:block_misc:4>,<minecraft:redstone>], 
 		[<immersiveengineering:metal:8>,<minecraft:redstone>,<immersiveengineering:metal:8>]
 	]);
 recipes.remove(<actuallyadditions:block_empowerer>);
