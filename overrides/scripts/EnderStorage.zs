@@ -1,0 +1,21 @@
+recipes.remove(<enderstorage:ender_storage>);
+recipes.addShaped(<enderstorage:ender_storage>, 
+	[	
+		[<minecraft:blaze_rod>,<minecraft:wool>,<minecraft:blaze_rod>], 
+		[<ore:obsidian>,<ore:chest>,<ore:obsidian>], 
+		[<minecraft:blaze_rod>,<actuallyadditions:block_misc:8>,<minecraft:blaze_rod>]
+	]);
+recipes.remove(<enderstorage:ender_storage:1>);
+recipes.addShaped(<enderstorage:ender_storage:1>, 
+	[	
+		[<minecraft:blaze_rod>,<minecraft:wool>,<minecraft:blaze_rod>], 
+		[<ore:obsidian>,<minecraft:cauldron>,<ore:obsidian>], 
+		[<minecraft:blaze_rod>,<actuallyadditions:block_misc:8>,<minecraft:blaze_rod>]
+	]);
+recipes.remove(<enderstorage:ender_pouch>);
+recipes.addShaped(<enderstorage:ender_pouch>, 
+	[	
+		[<minecraft:blaze_powder>,<minecraft:leather>,<minecraft:blaze_powder>], 
+		[<minecraft:leather>,<actuallyadditions:block_misc:8>,<minecraft:leather>], 
+		[<minecraft:blaze_powder>,<minecraft:wool>,<minecraft:blaze_powder>]
+	]);

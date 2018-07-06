@@ -1,0 +1,14 @@
+recipes.remove(<advgenerators:power_io>);
+recipes.addShaped(<advgenerators:power_io>, 
+	[	
+		[<minecraft:iron_ingot>,<minecraft:piston>,<minecraft:iron_ingot>], 
+		[<minecraft:iron_ingot>,<actuallyadditions:item_crystal>,<minecraft:iron_ingot>], 
+		[<minecraft:iron_ingot>,<minecraft:piston>,<minecraft:iron_ingot>]
+	]);
+recipes.remove(<advgenerators:controller>);
+recipes.addShaped(<advgenerators:controller>, 
+	[	
+		[<minecraft:iron_ingot>,<minecraft:redstone>,<minecraft:iron_ingot>], 
+		[<minecraft:redstone>,<opencomputers:material:7>,<minecraft:redstone>], 
+		[<minecraft:iron_ingot>,<minecraft:redstone>,<minecraft:iron_ingot>]
+	]);

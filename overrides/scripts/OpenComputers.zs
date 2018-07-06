@@ -1,0 +1,28 @@
+recipes.remove(<opencomputers:material:6>);
+recipes.addShaped(<opencomputers:material:6>, 
+	[	
+		[<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>], 
+		[<minecraft:gold_nugget>,<minecraft:paper>,<minecraft:gold_nugget>], 
+		[null,<minecraft:redstone>,null]
+	]);
+recipes.remove(<opencomputers:material:7>);
+recipes.addShaped(<opencomputers:material:7>, 
+	[	
+		[<minecraft:iron_nugget>,null,<minecraft:iron_nugget>], 
+		[<opencomputers:material:6>,<minecraft:gold_nugget>,<opencomputers:material:6>], 
+		[<minecraft:iron_nugget>,null,<minecraft:iron_nugget>]
+	]);
+recipes.remove(<opencomputers:material:8>);
+recipes.addShaped(<opencomputers:material:8>, 
+	[	
+		[<minecraft:gold_nugget>,<minecraft:dye:4>,<minecraft:gold_nugget>], 
+		[<opencomputers:material:7>,<embers:crystal_ember>,<opencomputers:material:7>], 
+		[<minecraft:gold_nugget>,<minecraft:dye:4>,<minecraft:gold_nugget>]
+	]);
+recipes.remove(<opencomputers:material:9>);
+recipes.addShaped(<opencomputers:material:9>, 
+	[	
+		[<minecraft:glowstone_dust>,<embers:ingot_dawnstone>,<minecraft:glowstone_dust>], 
+		[<opencomputers:material:8>,<minecraft:diamond>,<opencomputers:material:8>], 
+		[<minecraft:glowstone_dust>,<embers:ingot_dawnstone>,<minecraft:glowstone_dust>]
+	]);
