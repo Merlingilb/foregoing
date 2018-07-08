@@ -8,7 +8,7 @@ mods.refinedstorage.Solderer.addRecipe("2", <refinedstorage:processor:2>, 75, [<
 mods.refinedstorage.Solderer.addRecipe("3", <refinedstorage:processor:2>*9, 600, [<jaopca:block_blockaquamarine>, null, null]);
 mods.refinedstorage.Solderer.removeRecipe(<refinedstorage:processor>);
 mods.refinedstorage.Solderer.removeRecipe(<refinedstorage:processor>*9);
-mods.refinedstorage.Solderer.addRecipe("4", <refinedstorage:processor>, 25, [<wizardry:fairy_dust>, null, null]);
+mods.refinedstorage.Solderer.addRecipe("4", <refinedstorage:processor>, 25, [<wizardry:unicorn_horn>, null, null]);
 mods.refinedstorage.Solderer.addRecipe("5", <refinedstorage:processor>, 25, [<psi:material:1>, null, null]);
 mods.refinedstorage.Solderer.addRecipe("6", <refinedstorage:processor>*9, 200, [<psi:psi_decorative>, null, null]);
 

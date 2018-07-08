@@ -26,7 +26,6 @@ recipes.addShaped(<actuallyadditions:block_misc:8>,
 		[<actuallyadditions:item_crystal_empowered:2>,<actuallyadditions:block_misc:9>,<actuallyadditions:item_crystal_empowered:2>], 
 		[<minecraft:ender_pearl>,<actuallyadditions:item_crystal_empowered:2>,<minecraft:ender_pearl>]
 	]);
-mods.actuallyadditions.AtomicReconstructor.addRecipe(<wizardry:mana_battery>, <wizardry:nacre_pearl>, 10000);
 
 
 #EMPOWERER
@@ -62,10 +61,10 @@ mods.actuallyadditions.Empowerer.addRecipe(<actuallyadditions:block_crystal_empo
 #Diamantine
 
 mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:item_crystal_empowered:2>);
-mods.actuallyadditions.Empowerer.addRecipe(<actuallyadditions:item_crystal_empowered:2>, <actuallyadditions:item_crystal:2>, <minecraft:dye:12>, <wizardry:mana_orb>, <refinedstorage:processor:2>, <embers:aspectus_silver>, 16000, 1600, [0.6, 0.6, 1]);
+mods.actuallyadditions.Empowerer.addRecipe(<actuallyadditions:item_crystal_empowered:2>, <actuallyadditions:item_crystal:2>, <minecraft:dye:12>, <wizardry:fairy_dust>, <refinedstorage:processor:2>, <embers:aspectus_silver>, 16000, 1600, [0.6, 0.6, 1]);
 mods.actuallyadditions.Empowerer.addRecipe(<actuallyadditions:item_crystal_empowered:2>, <actuallyadditions:item_crystal:2>, <minecraft:dye:12>, <psi:material>, <refinedstorage:processor:2>, <embers:aspectus_silver>, 16000, 1600, [0.6, 0.6, 1]);
 mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:block_crystal_empowered:2>);
-mods.actuallyadditions.Empowerer.addRecipe(<actuallyadditions:block_crystal_empowered:2>, <actuallyadditions:block_crystal:2>, <minecraft:dye:12>, <wizardry:mana_orb>, <refinedstorage:processor:2>, <embers:aspectus_silver>, 1600000, 16000, [0.6, 0.6, 1]);
+mods.actuallyadditions.Empowerer.addRecipe(<actuallyadditions:block_crystal_empowered:2>, <actuallyadditions:block_crystal:2>, <minecraft:dye:12>, <wizardry:fairy_dust>, <refinedstorage:processor:2>, <embers:aspectus_silver>, 1600000, 16000, [0.6, 0.6, 1]);
 mods.actuallyadditions.Empowerer.addRecipe(<actuallyadditions:block_crystal_empowered:2>, <actuallyadditions:block_crystal:2>, <minecraft:dye:12>, <psi:material>, <refinedstorage:processor:2>, <embers:aspectus_silver>, 1600000, 16000, [0.6, 0.6, 1]);
 
 #Emeradic
