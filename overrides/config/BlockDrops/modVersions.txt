@@ -54,7 +54,7 @@
   "modtweaker": "4.0.12",
   "resourceloader": "1.5.3",
   "teslacorelib_registries": "1.0.14",
-  "actuallyadditions": "1.12.2-r136",
+  "actuallyadditions": "1.12.2-r135",
   "topaddons": "1.12.2-1.7.0",
   "advgenerators": "0.9.20.12",
   "teslacorelib": "1.0.14",
