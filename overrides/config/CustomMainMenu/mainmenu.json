@@ -46,7 +46,7 @@
         },
 
         "server":{
-            "text":"Official Server (OFFLINE)",
+            "text":"Official Server",
             "posX": -100,
             "posY": 13,
             "width":200,
@@ -54,7 +54,7 @@
             "alignment":"center",
             "action":{
                 "type":"connectToServer",
-                "ip":"94.16.122.73"
+                "ip":"188.165.56.183:31981"
             }
         },
         
