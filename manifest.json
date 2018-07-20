@@ -11,9 +11,8 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Foregoing",
-  "version": "0.11.1",
-  "author": "themerlingilb",
-  "projectID": 283187,
+  "version": "0.11.2",
+  "author": "themerlingilb",  "projectID": 283187,
   "files": [
     {
       "projectID": 265917,
@@ -367,7 +366,7 @@
     },
     {
       "projectID": 228404,
-      "fileID": 2577759,
+      "fileID": 2560486,
       "required": true
     },
     {
@@ -633,6 +632,16 @@
     {
       "projectID": 224472,
       "fileID": 2571935,
+      "required": true
+    },
+    {
+      "projectID": 223896,
+      "fileID": 2526670,
+      "required": true
+    },
+    {
+      "projectID": 223891,
+      "fileID": 2526674,
       "required": true
     }
   ],

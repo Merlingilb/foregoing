@@ -1,4 +1,4 @@
 {
-	"input": { "type": "forge:ore_dict", "ore": "dustRedstone" },
+	"input": { "item": "actuallyadditions:item_crystal", "data":0 },
 	"output": { "item": "wizardry:devil_dust" }
 }
