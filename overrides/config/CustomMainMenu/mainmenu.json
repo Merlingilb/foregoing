@@ -151,7 +151,7 @@
             "imageHeight": "300",
             "action" : {
                 "type" : "openLink",
-                "link" : "https://discord.gg/ZzFfUkr"
+                "link" : "https://discord.gg/3CdnMNq"
             }
         },
 
@@ -170,7 +170,7 @@
             "imageHeight": "300",
             "action" : {
                 "type" : "openLink",
-                "link" : "https://minecraft.curseforge.com/projects/foregoing-revamped/issues"
+                "link" : "https://minecraft.curseforge.com/projects/foregoing/issues"
             }
         }
     },
