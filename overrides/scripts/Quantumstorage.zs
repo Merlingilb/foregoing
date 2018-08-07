@@ -1,0 +1,28 @@
+recipes.remove(<quantumstorage:quantum_tank>);
+recipes.addShaped(<quantumstorage:quantum_tank>, 
+	[	
+		[<industrialforegoing:plastic>,<industrialforegoing:plastic>,<industrialforegoing:plastic>], 
+		[<industrialforegoing:plastic>,<quantumstorage:quantumstoragediskfluid>,<industrialforegoing:plastic>], 
+		[<industrialforegoing:plastic>,<industrialforegoing:plastic>,<industrialforegoing:plastic>]
+	]);
+recipes.remove(<quantumstorage:quantum_storage_unit>);
+recipes.addShaped(<quantumstorage:quantum_storage_unit>, 
+	[	
+		[<industrialforegoing:plastic>,<industrialforegoing:plastic>,<industrialforegoing:plastic>], 
+		[<industrialforegoing:plastic>,<quantumstorage:quantumstoragedisk>,<industrialforegoing:plastic>], 
+		[<industrialforegoing:plastic>,<industrialforegoing:plastic>,<industrialforegoing:plastic>]
+	]);
+recipes.remove(<quantumstorage:quantumstoragedisk>);
+recipes.addShaped(<quantumstorage:quantumstoragedisk>, 
+	[	
+		[<refinedstorage:storage_part:3>,<refinedstorage:storage_part:3>,<refinedstorage:storage_part:3>], 
+		[<refinedstorage:storage_part:3>,<refinedstorage:storage_housing>,<refinedstorage:storage_part:3>], 
+		[<refinedstorage:storage_part:3>,<refinedstorage:storage_part:3>,<refinedstorage:storage_part:3>]
+	]);
+recipes.remove(<quantumstorage:quantumstoragediskfluid>);
+recipes.addShaped(<quantumstorage:quantumstoragediskfluid>, 
+	[	
+		[<refinedstorage:fluid_storage_part:3>,<refinedstorage:fluid_storage_part:3>,<refinedstorage:fluid_storage_part:3>], 
+		[<refinedstorage:fluid_storage_part:3>,<refinedstorage:storage_housing>,<refinedstorage:fluid_storage_part:3>], 
+		[<refinedstorage:fluid_storage_part:3>,<refinedstorage:fluid_storage_part:3>,<refinedstorage:fluid_storage_part:3>]
+	]);
