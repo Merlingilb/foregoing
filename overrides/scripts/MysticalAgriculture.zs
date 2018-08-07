@@ -1,0 +1,155 @@
+#tier 1
+recipes.remove(<mysticalagriculture:crafting:17>);
+recipes.addShaped(<mysticalagriculture:crafting:17>, 
+	[	
+		[<mysticalagriculture:crafting>,<mysticalagriculture:crafting>,<mysticalagriculture:crafting>], 
+		[<actuallyadditions:item_crystal_empowered:4>,<mysticalagriculture:crafting:16>,<actuallyadditions:item_crystal_empowered:4>], 
+		[<mysticalagriculture:crafting>,<mysticalagriculture:crafting>,<mysticalagriculture:crafting>]
+	]);
+recipes.remove(<mysticalagriculture:crafting:33>);
+recipes.remove(<mysticalagriculture:crafting:33>*9);
+recipes.addShaped(<mysticalagriculture:crafting:33>, 
+	[	
+		[<mysticalagriculture:crafting>,<mysticalagriculture:crafting>,<mysticalagriculture:crafting>], 
+		[<actuallyadditions:item_crystal_empowered:4>,<mysticalagriculture:crafting:32>,<actuallyadditions:item_crystal_empowered:4>], 
+		[<mysticalagriculture:crafting>,<mysticalagriculture:crafting>,<mysticalagriculture:crafting>]
+	]);
+recipes.addShaped(<mysticalagriculture:crafting:33>, 
+	[	
+		[<mysticalagriculture:crafting:40>,<mysticalagriculture:crafting:40>,<mysticalagriculture:crafting:40>], 
+		[<mysticalagriculture:crafting:40>,<mysticalagriculture:crafting:40>,<mysticalagriculture:crafting:40>], 
+		[<mysticalagriculture:crafting:40>,<mysticalagriculture:crafting:40>,<mysticalagriculture:crafting:40>]
+	]);
+recipes.addShapeless(<mysticalagriculture:crafting:33>*9,[<mysticalagriculture:ingot_storage:1>]);
+
+#tier 2
+recipes.remove(<mysticalagriculture:crafting:18>);
+recipes.addShaped(<mysticalagriculture:crafting:18>, 
+	[	
+		[<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>], 
+		[<psi:material:2>,<mysticalagriculture:crafting:17>,<psi:material:2>], 
+		[<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>]
+	]);
+recipes.addShaped(<mysticalagriculture:crafting:18>, 
+	[	
+		[<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>], 
+		[<wizardry:sky_dust>,<mysticalagriculture:crafting:17>,<wizardry:sky_dust>], 
+		[<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>]
+	]);
+recipes.remove(<mysticalagriculture:crafting:34>);
+recipes.remove(<mysticalagriculture:crafting:34>*9);
+recipes.addShaped(<mysticalagriculture:crafting:34>, 
+	[	
+		[<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>], 
+		[<psi:material:2>,<mysticalagriculture:crafting:33>,<psi:material:2>], 
+		[<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>]
+	]);
+recipes.addShaped(<mysticalagriculture:crafting:34>, 
+	[	
+		[<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>], 
+		[<wizardry:sky_dust>,<mysticalagriculture:crafting:33>,<wizardry:sky_dust>], 
+		[<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>,<mysticalagriculture:crafting:1>]
+	]);
+recipes.addShaped(<mysticalagriculture:crafting:34>, 
+	[	
+		[<mysticalagriculture:crafting:41>,<mysticalagriculture:crafting:41>,<mysticalagriculture:crafting:41>], 
+		[<mysticalagriculture:crafting:41>,<mysticalagriculture:crafting:41>,<mysticalagriculture:crafting:41>], 
+		[<mysticalagriculture:crafting:41>,<mysticalagriculture:crafting:41>,<mysticalagriculture:crafting:41>]
+	]);
+recipes.addShapeless(<mysticalagriculture:crafting:34>*9,[<mysticalagriculture:ingot_storage:2>]);
+
+#tier 3
+recipes.remove(<mysticalagriculture:crafting:19>);
+recipes.addShaped(<mysticalagriculture:crafting:19>, 
+	[	
+		[<mysticalagriculture:crafting:2>,<mysticalagriculture:crafting:2>,<mysticalagriculture:crafting:2>], 
+		[<techreborn:plates:37>,<mysticalagriculture:crafting:18>,<techreborn:plates:37>], 
+		[<mysticalagriculture:crafting:2>,<mysticalagriculture:crafting:2>,<mysticalagriculture:crafting:2>]
+	]);
+recipes.remove(<mysticalagriculture:crafting:35>);
+recipes.remove(<mysticalagriculture:crafting:35>*9);
+recipes.addShaped(<mysticalagriculture:crafting:35>, 
+	[	
+		[<mysticalagriculture:crafting:2>,<mysticalagriculture:crafting:2>,<mysticalagriculture:crafting:2>], 
+		[<techreborn:plates:37>,<mysticalagriculture:crafting:34>,<techreborn:plates:37>], 
+		[<mysticalagriculture:crafting:2>,<mysticalagriculture:crafting:2>,<mysticalagriculture:crafting:2>]
+	]);
+recipes.addShaped(<mysticalagriculture:crafting:35>, 
+	[	
+		[<mysticalagriculture:crafting:42>,<mysticalagriculture:crafting:42>,<mysticalagriculture:crafting:42>], 
+		[<mysticalagriculture:crafting:42>,<mysticalagriculture:crafting:42>,<mysticalagriculture:crafting:42>], 
+		[<mysticalagriculture:crafting:42>,<mysticalagriculture:crafting:42>,<mysticalagriculture:crafting:42>]
+	]);
+recipes.addShapeless(<mysticalagriculture:crafting:35>*9,[<mysticalagriculture:ingot_storage:3>]);
+
+#tier 4
+recipes.remove(<mysticalagriculture:crafting:20>);
+recipes.addShaped(<mysticalagriculture:crafting:20>, 
+	[	
+		[<mysticalagriculture:crafting:3>,<mysticalagriculture:crafting:3>,<mysticalagriculture:crafting:3>], 
+		[<soulshardstow:soul_shard>.onlyWithTag({Tier: 5}),<mysticalagriculture:crafting:19>,<soulshardstow:soul_shard>.onlyWithTag({Tier: 5})], 
+		[<mysticalagriculture:crafting:3>,<mysticalagriculture:crafting:3>,<mysticalagriculture:crafting:3>]
+	]);
+recipes.remove(<mysticalagriculture:crafting:36>);
+recipes.remove(<mysticalagriculture:crafting:36>*9);
+recipes.addShaped(<mysticalagriculture:crafting:36>, 
+	[	
+		[<mysticalagriculture:crafting:3>,<mysticalagriculture:crafting:3>,<mysticalagriculture:crafting:3>], 
+		[<soulshardstow:soul_shard>.onlyWithTag({Tier: 5}),<mysticalagriculture:crafting:35>,<soulshardstow:soul_shard>.onlyWithTag({Tier: 5})], 
+		[<mysticalagriculture:crafting:3>,<mysticalagriculture:crafting:3>,<mysticalagriculture:crafting:3>]
+	]);
+recipes.addShaped(<mysticalagriculture:crafting:36>, 
+	[	
+		[<mysticalagriculture:crafting:43>,<mysticalagriculture:crafting:43>,<mysticalagriculture:crafting:43>], 
+		[<mysticalagriculture:crafting:43>,<mysticalagriculture:crafting:43>,<mysticalagriculture:crafting:43>], 
+		[<mysticalagriculture:crafting:43>,<mysticalagriculture:crafting:43>,<mysticalagriculture:crafting:43>]
+	]);
+recipes.addShapeless(<mysticalagriculture:crafting:36>*9,[<mysticalagriculture:ingot_storage:4>]);
+
+#tier 5
+recipes.remove(<mysticalagriculture:crafting:21>);
+recipes.addShaped(<mysticalagriculture:crafting:21>, 
+	[	
+		[<mysticalagriculture:crafting:4>,<mysticalagriculture:crafting:4>,<mysticalagriculture:crafting:4>], 
+		[<environmentaltech:aethium_crystal>,<mysticalagriculture:crafting:20>,<environmentaltech:aethium_crystal>], 
+		[<mysticalagriculture:crafting:4>,<mysticalagriculture:crafting:4>,<mysticalagriculture:crafting:4>]
+	]);
+recipes.remove(<mysticalagriculture:crafting:37>);
+recipes.remove(<mysticalagriculture:crafting:37>*9);
+recipes.addShaped(<mysticalagriculture:crafting:37>, 
+	[	
+		[<mysticalagriculture:crafting:4>,<mysticalagriculture:crafting:4>,<mysticalagriculture:crafting:4>], 
+		[<environmentaltech:aethium_crystal>,<mysticalagriculture:crafting:36>,<environmentaltech:aethium_crystal>], 
+		[<mysticalagriculture:crafting:4>,<mysticalagriculture:crafting:4>,<mysticalagriculture:crafting:4>]
+	]);
+recipes.addShaped(<mysticalagriculture:crafting:37>, 
+	[	
+		[<mysticalagriculture:crafting:44>,<mysticalagriculture:crafting:44>,<mysticalagriculture:crafting:44>], 
+		[<mysticalagriculture:crafting:44>,<mysticalagriculture:crafting:44>,<mysticalagriculture:crafting:44>], 
+		[<mysticalagriculture:crafting:44>,<mysticalagriculture:crafting:44>,<mysticalagriculture:crafting:44>]
+	]);
+recipes.addShapeless(<mysticalagriculture:crafting:37>*9,[<mysticalagriculture:ingot_storage:5>]);
+
+#tier 6
+recipes.remove(<mysticalagradditions:insanium:1>);
+recipes.addShaped(<mysticalagradditions:insanium:1>, 
+	[	
+		[<mysticalagradditions:insanium>,<mysticalagradditions:insanium>,<mysticalagradditions:insanium>], 
+		[<draconicevolution:chaotic_core>,<mysticalagriculture:crafting:21>,<draconicevolution:chaotic_core>], 
+		[<mysticalagradditions:insanium>,<mysticalagradditions:insanium>,<mysticalagradditions:insanium>]
+	]);
+recipes.remove(<mysticalagradditions:insanium:2>);
+recipes.remove(<mysticalagradditions:insanium:2>*9);
+recipes.addShaped(<mysticalagradditions:insanium:2>, 
+	[	
+		[<mysticalagradditions:insanium>,<mysticalagradditions:insanium>,<mysticalagradditions:insanium>], 
+		[<draconicevolution:chaotic_core>,<mysticalagriculture:crafting:37>,<draconicevolution:chaotic_core>], 
+		[<mysticalagradditions:insanium>,<mysticalagradditions:insanium>,<mysticalagradditions:insanium>]
+	]);
+recipes.addShaped(<mysticalagradditions:insanium:2>, 
+	[	
+		[<mysticalagradditions:insanium:3>,<mysticalagradditions:insanium:3>,<mysticalagradditions:insanium:3>], 
+		[<mysticalagradditions:insanium:3>,<mysticalagradditions:insanium:3>,<mysticalagradditions:insanium:3>], 
+		[<mysticalagradditions:insanium:3>,<mysticalagradditions:insanium:3>,<mysticalagradditions:insanium:3>]
+	]);
+recipes.addShapeless(<mysticalagradditions:insanium:2>*9,[<mysticalagradditions:storage:1>]);
