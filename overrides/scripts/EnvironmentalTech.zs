@@ -1,0 +1,263 @@
+#tier 1
+recipes.remove(<environmentaltech:void_ore_miner_cont_1>);
+recipes.addShaped(<environmentaltech:void_ore_miner_cont_1>, 
+	[	
+		[<actuallyadditions:block_crystal_empowered:4>,<ore:blockDiamond>,<actuallyadditions:block_crystal_empowered:4>], 
+		[<ore:blockLitherite>,<environmentaltech:diode>,<ore:blockLitherite>], 
+		[<environmentaltech:interconnect>,<ore:etLaserLens>,<environmentaltech:interconnect>]
+	]);
+recipes.remove(<environmentaltech:void_res_miner_cont_1>);
+recipes.addShaped(<environmentaltech:void_res_miner_cont_1>, 
+	[	
+		[<actuallyadditions:block_crystal_empowered:4>,<ore:obsidian>,<actuallyadditions:block_crystal_empowered:4>], 
+		[<ore:blockLitherite>,<environmentaltech:diode>,<ore:blockLitherite>], 
+		[<environmentaltech:interconnect>,<ore:etLaserLens>,<environmentaltech:interconnect>]
+	]);
+recipes.remove(<environmentaltech:void_botanic_miner_cont_1>);
+recipes.addShaped(<environmentaltech:void_botanic_miner_cont_1>, 
+	[	
+		[<actuallyadditions:block_crystal_empowered:4>,<minecraft:chorus_flower>,<actuallyadditions:block_crystal_empowered:4>], 
+		[<ore:blockLitherite>,<environmentaltech:diode>,<ore:blockLitherite>], 
+		[<environmentaltech:interconnect>,<ore:etLaserLens>,<environmentaltech:interconnect>]
+	]);
+recipes.remove(<environmentaltech:lightning_cont_1>);
+recipes.addShaped(<environmentaltech:lightning_cont_1>, 
+	[	
+		[<environmentaltech:interconnect>,<environmentaltech:lightning_rod_insulated>,<environmentaltech:interconnect>], 
+		[<ore:blockLitherite>,<environmentaltech:lightning_rod_insulated>,<ore:blockLitherite>], 
+		[<actuallyadditions:block_crystal_empowered:4>,<ore:blockIron>,<actuallyadditions:block_crystal_empowered:4>]
+	]);
+recipes.remove(<environmentaltech:nano_cont_personal_1>);
+recipes.addShaped(<environmentaltech:nano_cont_personal_1>, 
+	[	
+		[<actuallyadditions:block_crystal_empowered:4>,<environmentaltech:mica>,<actuallyadditions:block_crystal_empowered:4>], 
+		[<ore:blockLitherite>,<minecraft:beacon>,<ore:blockLitherite>], 
+		[<environmentaltech:interconnect>,<environmentaltech:modifier_null>,<environmentaltech:interconnect>]
+	]);
+recipes.remove(<environmentaltech:solar_cont_1>);
+recipes.addShaped(<environmentaltech:solar_cont_1>, 
+	[	
+		[<ore:blockLitherite>,<ore:blockLapis>,<ore:blockLitherite>], 
+		[<actuallyadditions:block_crystal_empowered:4>,<ore:etSolarCell>,<actuallyadditions:block_crystal_empowered:4>], 
+		[<ore:blockLitherite>,<ore:blockLapis>,<ore:blockLitherite>]
+	]);
+
+#tier 2
+recipes.remove(<environmentaltech:void_ore_miner_cont_2>);
+recipes.addShaped(<environmentaltech:void_ore_miner_cont_2>, 
+	[	
+		[<industrialforegoing:plastic>,<ore:blockDiamond>,<industrialforegoing:plastic>], 
+		[<ore:blockErodium>,<environmentaltech:void_ore_miner_cont_1>,<ore:blockErodium>], 
+		[<ore:blockErodium>,<ore:etLaserLens>,<ore:blockErodium>]
+	]);
+recipes.remove(<environmentaltech:void_res_miner_cont_2>);
+recipes.addShaped(<environmentaltech:void_res_miner_cont_2>, 
+	[	
+		[<industrialforegoing:plastic>,<ore:obsidian>,<industrialforegoing:plastic>], 
+		[<ore:blockErodium>,<environmentaltech:void_res_miner_cont_1>,<ore:blockErodium>], 
+		[<ore:blockErodium>,<ore:etLaserLens>,<ore:blockErodium>]
+	]);
+recipes.remove(<environmentaltech:void_botanic_miner_cont_2>);
+recipes.addShaped(<environmentaltech:void_botanic_miner_cont_2>, 
+	[	
+		[<industrialforegoing:plastic>,<minecraft:chorus_flower>,<industrialforegoing:plastic>], 
+		[<ore:blockErodium>,<environmentaltech:void_botanic_miner_cont_1>,<ore:blockErodium>], 
+		[<ore:blockErodium>,<ore:etLaserLens>,<ore:blockErodium>]
+	]);
+recipes.remove(<environmentaltech:lightning_cont_2>);
+recipes.addShaped(<environmentaltech:lightning_cont_2>, 
+	[	
+		[<ore:blockIron>,<environmentaltech:lightning_rod_insulated>,<ore:blockIron>], 
+		[<ore:blockErodium>,<environmentaltech:lightning_cont_1>,<ore:blockErodium>], 
+		[<industrialforegoing:plastic>,<ore:blockIron>,<industrialforegoing:plastic>]
+	]);
+recipes.remove(<environmentaltech:nano_cont_personal_2>);
+recipes.addShaped(<environmentaltech:nano_cont_personal_2>, 
+	[	
+		[<industrialforegoing:plastic>,<environmentaltech:mica>,<industrialforegoing:plastic>], 
+		[<ore:blockErodium>,<environmentaltech:nano_cont_personal_1>,<ore:blockErodium>], 
+		[<environmentaltech:mica>,<environmentaltech:modifier_null>,<environmentaltech:mica>]
+	]);
+recipes.remove(<environmentaltech:solar_cont_2>);
+recipes.addShaped(<environmentaltech:solar_cont_2>, 
+	[	
+		[<ore:blockErodium>,<environmentaltech:solar_cell_erodium>,<ore:blockErodium>], 
+		[<industrialforegoing:plastic>,<environmentaltech:solar_cont_1>,<industrialforegoing:plastic>], 
+		[<ore:blockErodium>,<environmentaltech:solar_cell_erodium>,<ore:blockErodium>]
+	]);
+
+#tier 3
+recipes.remove(<environmentaltech:void_ore_miner_cont_3>);
+recipes.addShaped(<environmentaltech:void_ore_miner_cont_3>, 
+	[	
+		[<woot:factorycore>,<ore:blockDiamond>,<woot:factorycore>], 
+		[<ore:blockKyronite>,<environmentaltech:void_ore_miner_cont_2>,<ore:blockKyronite>], 
+		[<ore:blockKyronite>,<ore:etLaserLens>,<ore:blockKyronite>]
+	]);
+recipes.remove(<environmentaltech:void_res_miner_cont_3>);
+recipes.addShaped(<environmentaltech:void_res_miner_cont_3>, 
+	[	
+		[<woot:factorycore>,<ore:obsidian>,<woot:factorycore>], 
+		[<ore:blockKyronite>,<environmentaltech:void_res_miner_cont_2>,<ore:blockKyronite>], 
+		[<ore:blockKyronite>,<ore:etLaserLens>,<ore:blockKyronite>]
+	]);
+recipes.remove(<environmentaltech:void_botanic_miner_cont_3>);
+recipes.addShaped(<environmentaltech:void_botanic_miner_cont_3>, 
+	[	
+		[<woot:factorycore>,<minecraft:chorus_flower>,<woot:factorycore>], 
+		[<ore:blockKyronite>,<environmentaltech:void_botanic_miner_cont_2>,<ore:blockKyronite>], 
+		[<ore:blockKyronite>,<ore:etLaserLens>,<ore:blockKyronite>]
+	]);
+recipes.remove(<environmentaltech:lightning_cont_3>);
+recipes.addShaped(<environmentaltech:lightning_cont_3>, 
+	[	
+		[<ore:blockIron>,<environmentaltech:lightning_rod_insulated>,<ore:blockIron>], 
+		[<ore:blockKyronite>,<environmentaltech:lightning_cont_2>,<ore:blockKyronite>], 
+		[<woot:factorycore>,<ore:blockIron>,<woot:factorycore>]
+	]);
+recipes.remove(<environmentaltech:nano_cont_personal_3>);
+recipes.addShaped(<environmentaltech:nano_cont_personal_3>, 
+	[	
+		[<woot:factorycore>,<environmentaltech:mica>,<woot:factorycore>], 
+		[<ore:blockKyronite>,<environmentaltech:nano_cont_personal_2>,<ore:blockKyronite>], 
+		[<environmentaltech:mica>,<environmentaltech:modifier_null>,<environmentaltech:mica>]
+	]);
+recipes.remove(<environmentaltech:solar_cont_3>);
+recipes.addShaped(<environmentaltech:solar_cont_3>, 
+	[	
+		[<ore:blockKyronite>,<environmentaltech:solar_cell_kyronite>,<ore:blockKyronite>], 
+		[<woot:factorycore>,<environmentaltech:solar_cont_2>,<woot:factorycore>], 
+		[<ore:blockKyronite>,<environmentaltech:solar_cell_kyronite>,<ore:blockKyronite>]
+	]);
+
+#tier 4
+recipes.remove(<environmentaltech:void_ore_miner_cont_4>);
+recipes.addShaped(<environmentaltech:void_ore_miner_cont_4>, 
+	[	
+		[<soulshardstow:soul_shard>.onlyWithTag({Tier: 5}),<ore:blockDiamond>,<soulshardstow:soul_shard>.onlyWithTag({Tier: 5})], 
+		[<ore:blockPladium>,<environmentaltech:void_ore_miner_cont_3>,<ore:blockPladium>], 
+		[<ore:blockPladium>,<ore:etLaserLens>,<ore:blockPladium>]
+	]);
+recipes.remove(<environmentaltech:void_res_miner_cont_4>);
+recipes.addShaped(<environmentaltech:void_res_miner_cont_4>, 
+	[	
+		[<soulshardstow:soul_shard>.onlyWithTag({Tier: 5}),<ore:obsidian>,<soulshardstow:soul_shard>.onlyWithTag({Tier: 5})], 
+		[<ore:blockPladium>,<environmentaltech:void_res_miner_cont_3>,<ore:blockPladium>], 
+		[<ore:blockPladium>,<ore:etLaserLens>,<ore:blockPladium>]
+	]);
+recipes.remove(<environmentaltech:void_botanic_miner_cont_4>);
+recipes.addShaped(<environmentaltech:void_botanic_miner_cont_4>, 
+	[	
+		[<soulshardstow:soul_shard>.onlyWithTag({Tier: 5}),<minecraft:chorus_flower>,<soulshardstow:soul_shard>.onlyWithTag({Tier: 5})], 
+		[<ore:blockPladium>,<environmentaltech:void_botanic_miner_cont_3>,<ore:blockPladium>], 
+		[<ore:blockPladium>,<ore:etLaserLens>,<ore:blockPladium>]
+	]);
+recipes.remove(<environmentaltech:lightning_cont_4>);
+recipes.addShaped(<environmentaltech:lightning_cont_4>, 
+	[	
+		[<ore:blockIron>,<environmentaltech:lightning_rod_insulated>,<ore:blockIron>], 
+		[<ore:blockPladium>,<environmentaltech:lightning_cont_3>,<ore:blockPladium>], 
+		[<soulshardstow:soul_shard>.onlyWithTag({Tier: 5}),<ore:blockIron>,<soulshardstow:soul_shard>.onlyWithTag({Tier: 5})]
+	]);
+recipes.remove(<environmentaltech:nano_cont_personal_4>);
+recipes.addShaped(<environmentaltech:nano_cont_personal_4>, 
+	[	
+		[<soulshardstow:soul_shard>.onlyWithTag({Tier: 5}),<environmentaltech:mica>,<soulshardstow:soul_shard>.onlyWithTag({Tier: 5})], 
+		[<ore:blockPladium>,<environmentaltech:nano_cont_personal_3>,<ore:blockPladium>], 
+		[<environmentaltech:mica>,<environmentaltech:modifier_null>,<environmentaltech:mica>]
+	]);
+recipes.remove(<environmentaltech:solar_cont_4>);
+recipes.addShaped(<environmentaltech:solar_cont_4>, 
+	[	
+		[<ore:blockPladium>,<environmentaltech:solar_cell_pladium>,<ore:blockPladium>], 
+		[<soulshardstow:soul_shard>.onlyWithTag({Tier: 5}),<environmentaltech:solar_cont_3>,<soulshardstow:soul_shard>.onlyWithTag({Tier: 5})], 
+		[<ore:blockPladium>,<environmentaltech:solar_cell_pladium>,<ore:blockPladium>]
+	]);
+
+#tier 5
+recipes.remove(<environmentaltech:void_ore_miner_cont_5>);
+recipes.addShaped(<environmentaltech:void_ore_miner_cont_5>, 
+	[	
+		[<mysticalagriculture:ingot_storage:4>,<ore:blockDiamond>,<mysticalagriculture:ingot_storage:4>], 
+		[<ore:blockIonite>,<environmentaltech:void_ore_miner_cont_4>,<ore:blockIonite>], 
+		[<ore:blockIonite>,<ore:etLaserLens>,<ore:blockIonite>]
+	]);
+recipes.remove(<environmentaltech:void_res_miner_cont_5>);
+recipes.addShaped(<environmentaltech:void_res_miner_cont_5>, 
+	[	
+		[<mysticalagriculture:ingot_storage:4>,<ore:obsidian>,<mysticalagriculture:ingot_storage:4>], 
+		[<ore:blockIonite>,<environmentaltech:void_res_miner_cont_4>,<ore:blockIonite>], 
+		[<ore:blockIonite>,<ore:etLaserLens>,<ore:blockIonite>]
+	]);
+recipes.remove(<environmentaltech:void_botanic_miner_cont_5>);
+recipes.addShaped(<environmentaltech:void_botanic_miner_cont_5>, 
+	[	
+		[<mysticalagriculture:ingot_storage:4>,<minecraft:chorus_flower>,<mysticalagriculture:ingot_storage:4>], 
+		[<ore:blockIonite>,<environmentaltech:void_botanic_miner_cont_4>,<ore:blockIonite>], 
+		[<ore:blockIonite>,<ore:etLaserLens>,<ore:blockIonite>]
+	]);
+recipes.remove(<environmentaltech:lightning_cont_5>);
+recipes.addShaped(<environmentaltech:lightning_cont_5>, 
+	[	
+		[<ore:blockIron>,<environmentaltech:lightning_rod_insulated>,<ore:blockIron>], 
+		[<ore:blockIonite>,<environmentaltech:lightning_cont_4>,<ore:blockIonite>], 
+		[<mysticalagriculture:ingot_storage:4>,<ore:blockIron>,<mysticalagriculture:ingot_storage:4>]
+	]);
+recipes.remove(<environmentaltech:nano_cont_personal_5>);
+recipes.addShaped(<environmentaltech:nano_cont_personal_5>, 
+	[	
+		[<mysticalagriculture:ingot_storage:4>,<environmentaltech:mica>,<mysticalagriculture:ingot_storage:4>], 
+		[<ore:blockIonite>,<environmentaltech:nano_cont_personal_4>,<ore:blockIonite>], 
+		[<environmentaltech:mica>,<environmentaltech:modifier_null>,<environmentaltech:mica>]
+	]);
+recipes.remove(<environmentaltech:solar_cont_5>);
+recipes.addShaped(<environmentaltech:solar_cont_5>, 
+	[	
+		[<ore:blockIonite>,<environmentaltech:solar_cell_ionite>,<ore:blockIonite>], 
+		[<mysticalagriculture:ingot_storage:4>,<environmentaltech:solar_cont_4>,<mysticalagriculture:ingot_storage:4>], 
+		[<ore:blockIonite>,<environmentaltech:solar_cell_ionite>,<ore:blockIonite>]
+	]);
+
+#tier 6
+recipes.remove(<environmentaltech:void_ore_miner_cont_6>);
+recipes.addShaped(<environmentaltech:void_ore_miner_cont_6>, 
+	[	
+		[<draconicevolution:chaotic_core>,<ore:blockDiamond>,<draconicevolution:chaotic_core>], 
+		[<ore:blockAethium>,<environmentaltech:void_ore_miner_cont_5>,<ore:blockAethium>], 
+		[<ore:blockAethium>,<ore:etLaserLens>,<ore:blockAethium>]
+	]);
+recipes.remove(<environmentaltech:void_res_miner_cont_6>);
+recipes.addShaped(<environmentaltech:void_res_miner_cont_6>, 
+	[	
+		[<draconicevolution:chaotic_core>,<ore:obsidian>,<draconicevolution:chaotic_core>], 
+		[<ore:blockAethium>,<environmentaltech:void_res_miner_cont_5>,<ore:blockAethium>], 
+		[<ore:blockAethium>,<ore:etLaserLens>,<ore:blockAethium>]
+	]);
+recipes.remove(<environmentaltech:void_botanic_miner_cont_6>);
+recipes.addShaped(<environmentaltech:void_botanic_miner_cont_6>, 
+	[	
+		[<draconicevolution:chaotic_core>,<minecraft:chorus_flower>,<draconicevolution:chaotic_core>], 
+		[<ore:blockAethium>,<environmentaltech:void_botanic_miner_cont_5>,<ore:blockAethium>], 
+		[<ore:blockAethium>,<ore:etLaserLens>,<ore:blockAethium>]
+	]);
+recipes.remove(<environmentaltech:lightning_cont_6>);
+recipes.addShaped(<environmentaltech:lightning_cont_6>, 
+	[	
+		[<ore:blockIron>,<environmentaltech:lightning_rod_insulated>,<ore:blockIron>], 
+		[<ore:blockAethium>,<environmentaltech:lightning_cont_5>,<ore:blockAethium>], 
+		[<draconicevolution:chaotic_core>,<ore:blockIron>,<draconicevolution:chaotic_core>]
+	]);
+recipes.remove(<environmentaltech:nano_cont_personal_6>);
+recipes.addShaped(<environmentaltech:nano_cont_personal_6>, 
+	[	
+		[<draconicevolution:chaotic_core>,<environmentaltech:mica>,<draconicevolution:chaotic_core>], 
+		[<ore:blockAethium>,<environmentaltech:nano_cont_personal_5>,<ore:blockAethium>], 
+		[<environmentaltech:mica>,<environmentaltech:modifier_null>,<environmentaltech:mica>]
+	]);
+recipes.remove(<environmentaltech:solar_cont_6>);
+recipes.addShaped(<environmentaltech:solar_cont_6>, 
+	[	
+		[<ore:blockAethium>,<environmentaltech:solar_cell_aethium>,<ore:blockAethium>], 
+		[<draconicevolution:chaotic_core>,<environmentaltech:solar_cont_5>,<draconicevolution:chaotic_core>], 
+		[<ore:blockAethium>,<environmentaltech:solar_cell_aethium>,<ore:blockAethium>]
+	]);

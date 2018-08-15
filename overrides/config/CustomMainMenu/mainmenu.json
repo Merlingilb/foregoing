@@ -54,7 +54,7 @@
             "alignment":"center",
             "action":{
                 "type":"connectToServer",
-                "ip":"188.165.56.183:31981"
+                "ip":"193.31.24.180:25565"
             }
         },
         
@@ -95,9 +95,9 @@
         "quit":
         {
             "text" : "menu.quit",
-            "posX" : 2,
+            "posX" : 25,
             "posY" : 61,
-            "width" : 98,
+            "width" : 75,
             "height" : 20,
             "alignment": "center",
             "action" : 
@@ -128,8 +128,8 @@
             "text" : "",
             "posX" : -154,
             "posY" : 61,
-            "width" : 20,
-            "height" : 20,
+            "width" : 0,
+            "height" : 0,
             "texture" : "custommainmenu:textures/gui/buttons.png",
             "alignment": "center",
             "action" : 
@@ -171,6 +171,25 @@
             "action" : {
                 "type" : "openLink",
                 "link" : "https://minecraft.curseforge.com/projects/foregoing/issues"
+            }
+        },
+
+        "Patreon": {
+            "text": "",
+            "normalTextColor": 6081343,
+            "hoverTextColor": 41704,
+            "tooltip": "Become a Patreon",
+            "texture": "modpack:mainmenu/patreon2.png",
+            "posX" : -3,
+            "posY" : 61,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "center",
+            "imageWidth": "200",
+            "imageHeight": "200",
+            "action" : {
+                "type" : "openLink",
+                "link" : "https://www.patreon.com/minecraftdaniel"
             }
         }
     },
