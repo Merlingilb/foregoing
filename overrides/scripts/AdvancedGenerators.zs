@@ -12,3 +12,17 @@ recipes.addShaped(<advgenerators:controller>,
 		[<minecraft:redstone>,<opencomputers:material:7>,<minecraft:redstone>], 
 		[<minecraft:iron_ingot>,<minecraft:redstone>,<minecraft:iron_ingot>]
 	]);
+recipes.remove(<advgenerators:turbine_rotor_manyullyn>);
+recipes.addShaped(<advgenerators:turbine_rotor_manyullyn>, 
+	[	
+		[<advgenerators:turbine_blade_manyullyn>,<advgenerators:turbine_blade_manyullyn>,<advgenerators:turbine_blade_manyullyn>], 
+		[<advgenerators:turbine_blade_manyullyn>,<advgenerators:turbine_rotor_gold>,<advgenerators:turbine_blade_manyullyn>], 
+		[<advgenerators:turbine_blade_manyullyn>,<advgenerators:turbine_blade_manyullyn>,<advgenerators:turbine_blade_manyullyn>]
+	]);
+recipes.remove(<advgenerators:turbine_rotor_gold>);
+recipes.addShaped(<advgenerators:turbine_rotor_gold>, 
+	[	
+		[<ore:ingotGold>,<ore:ingotGold>,<ore:ingotGold>], 
+		[<ore:ingotGold>,<advgenerators:turbine_rotor_iron>,<ore:ingotGold>], 
+		[<ore:ingotGold>,<ore:ingotGold>,<ore:ingotGold>]
+	]);

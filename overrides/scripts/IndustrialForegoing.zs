@@ -6,6 +6,6 @@ recipes.addShaped(<teslacorelib:machine_case>,
 		[<ore:ingotDawnstone>,<ore:plankWood>,<ore:ingotDawnstone>]
 	]);
 
-LaserDrill.remove(<mysticalagriculture:prosperity_ore>);
-LaserDrill.remove(<mysticalagriculture:nether_prosperity_ore>);
-LaserDrill.remove(<mysticalagriculture:end_prosperity_ore>);
+mods.industrialforegoing.LaserDrill.remove(<mysticalagriculture:prosperity_ore>);
+mods.industrialforegoing.LaserDrill.remove(<mysticalagriculture:nether_prosperity_ore>);
+mods.industrialforegoing.LaserDrill.remove(<mysticalagriculture:end_prosperity_ore>);
