@@ -54,7 +54,7 @@
             "alignment":"center",
             "action":{
                 "type":"connectToServer",
-                "ip":"188.165.56.183:31981"
+                "ip":"193.31.24.180:25565"
             }
         },
         
