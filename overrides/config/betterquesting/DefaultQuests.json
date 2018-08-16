@@ -31734,7 +31734,7 @@
     "478:10": {
       "questID:3": 492,
       "preRequisites:11": [
-        18
+        440
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -31797,8 +31797,8 @@
     "479:10": {
       "questID:3": 493,
       "preRequisites:11": [
-        22,
-        492
+        492,
+        235
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -31924,7 +31924,8 @@
     "481:10": {
       "questID:3": 495,
       "preRequisites:11": [
-        499
+        499,
+        440
       ],
       "properties:10": {
         "betterquesting:10": {
