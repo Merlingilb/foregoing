@@ -229,7 +229,7 @@
             "posY" : -70,
             "color" : -256,
             "alignment" : "center",
-            "texts" : "file:minecraft:texts/splashes.txt"
+            "texts" : "modpack:texts/splashes.txt"
         },
         
         "panorama":
