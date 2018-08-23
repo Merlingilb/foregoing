@@ -229,7 +229,7 @@
             "posY" : -70,
             "color" : -256,
             "alignment" : "center",
-            "texts" : "modpack:texts/splashes.txt"
+            "texts" : "file:modpack:texts/splashes.txt"
         },
         
         "panorama":
