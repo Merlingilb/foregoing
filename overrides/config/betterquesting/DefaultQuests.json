@@ -15548,7 +15548,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Mixer Centrifuge",
-          "desc:8": "In here you can make Dawnstone.\n\nFill the mixer centrifuge from different sides at the upper half and extract the result at the lower half."
+          "desc:8": "In here you can make Dawnstone.\n\nFill the mixer centrifuge from different sides at the lower half and extract the result at the upper half."
         }
       },
       "tasks:9": {
@@ -31988,7 +31988,7 @@
               "id:8": "refinedstorage:upgrade",
               "Count:3": 4,
               "OreDict:8": "",
-              "Damage:3": 0
+              "Damage:3": 1
             }
           }
         }
