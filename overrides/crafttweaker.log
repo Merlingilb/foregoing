@@ -1,0 +1,215 @@
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Loading scripts
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ActuallyAdditions.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AdvancedGenerators.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Avaritia.zs}
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Cosmic Meatballs
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker/extreme/shapeless/cosmic meatballs for Cosmic Meatballs
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Infinity Catalyst
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker/extreme/shapeless/infinity catalyst for Infinity Catalyst
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Creative RF Source
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_creative rf source for Creative RF Source
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Creative Flux Capacitor
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_creative flux capacitor for Creative Flux Capacitor
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Creative Ember Source
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_creative ember source for Creative Ember Source
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: dankNull.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: DarkUtils.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: DraconicEvvolution.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Embers.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: EnderStorage.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: EnvironmentalTech.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: FluxNetworks.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ImmersiveEngineering.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Fairy Dust
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: IndustrialForegoing.zs}
+[INITIALIZATION][CLIENT][INFO] Removing Laser Drill entry Prosperity Ore
+[INITIALIZATION][CLIENT][INFO] Removing Laser Drill entry Nether Prosperity Ore
+[INITIALIZATION][CLIENT][INFO] Removing Laser Drill entry End Prosperity Ore
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MysticalAgriculture.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: NuclearCraft.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: OpenComputers.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Quantumstorage.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RefinedStorage.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: StevesCarts.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: TechReborn.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: TinkersConstruct.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Waterstrainer.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Woot.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: xnet.zs}
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 621ms
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Atomic Reconstructor with name ct_shaped719409076
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Empowerer with name ct_shaped-1385562969
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Casing with name ct_shaped1816491492
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ender Casing with name ct_shaped736712184
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Power IO Module with name ct_shaped-1297406444
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Control Circuit with name ct_shaped-1830481806
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Manyullyn Turbine Rotor with name ct_shaped1129640276
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gold Plated Turbine Rotor with name ct_shaped-1602923115
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for RedStone /dank/null Panel with name ct_shaped-1605880056
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lapis /dank/null Panel with name ct_shaped-218518728
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron /dank/null Panel with name ct_shaped-1146475592
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gold /dank/null Panel with name ct_shaped-1011586112
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diamond /dank/null Panel with name ct_shaped1901584426
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Emerald /dank/null Panel with name ct_shaped-545590489
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Block Update Detector with name ct_shaped2016425377
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Draconic Core with name ct_shaped774794613
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Caminite Ring with name ct_shaped60929475
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ender Chest with name ct_shaped653072171
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ender Tank with name ct_shaped-1518555456
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ender Pouch with name ct_shaped1894054826
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Ore Miner Controller Tier 1 with name ct_shaped427217083
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Resource Miner Controller Tier 1 with name ct_shaped-1593000755
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Botanic Miner Controller Tier 1 with name ct_shaped-1737792193
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lightning Controller Tier 1 with name ct_shaped-1169055231
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Personal Nano Bot Beacon Tier 1 with name ct_shaped1885106199
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Solar Array Controller Tier 1 with name ct_shaped1579268713
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Ore Miner Controller Tier 2 with name ct_shaped438555163
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Resource Miner Controller Tier 2 with name ct_shaped-283714001
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Botanic Miner Controller Tier 2 with name ct_shaped-851534279
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lightning Controller Tier 2 with name ct_shaped-757576339
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Personal Nano Bot Beacon Tier 2 with name ct_shaped-481856537
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Solar Array Controller Tier 2 with name ct_shaped383364464
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Ore Miner Controller Tier 3 with name ct_shaped1847955923
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Resource Miner Controller Tier 3 with name ct_shaped440711419
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Botanic Miner Controller Tier 3 with name ct_shaped-1097979055
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lightning Controller Tier 3 with name ct_shaped2037525197
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Personal Nano Bot Beacon Tier 3 with name ct_shaped-383807561
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Solar Array Controller Tier 3 with name ct_shaped-1213828876
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Ore Miner Controller Tier 4 with name ct_shaped2022381061
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Resource Miner Controller Tier 4 with name ct_shaped816307697
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Botanic Miner Controller Tier 4 with name ct_shaped1185856677
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lightning Controller Tier 4 with name ct_shaped1851119279
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Personal Nano Bot Beacon Tier 4 with name ct_shaped2140487209
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Solar Array Controller Tier 4 with name ct_shaped216888338
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Ore Miner Controller Tier 5 with name ct_shaped497916205
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Resource Miner Controller Tier 5 with name ct_shaped-870314883
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Botanic Miner Controller Tier 5 with name ct_shaped-1809360837
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lightning Controller Tier 5 with name ct_shaped-1559031553
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Personal Nano Bot Beacon Tier 5 with name ct_shaped521711191
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Solar Array Controller Tier 5 with name ct_shaped-257693666
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Ore Miner Controller Tier 6 with name ct_shaped-1145540897
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Resource Miner Controller Tier 6 with name ct_shaped-553396661
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Botanic Miner Controller Tier 6 with name ct_shaped-1804346359
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lightning Controller Tier 6 with name ct_shaped-193342307
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Personal Nano Bot Beacon Tier 6 with name ct_shaped-517744927
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Solar Array Controller Tier 6 with name ct_shaped-820882242
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flux Core with name ct_shaped1566216572
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Flux Storage with name ct_shaped-1614838550
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Herculean Flux Storage with name ct_shaped-1166921355
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gargantuan Flux Storage with name ct_shaped1466671742
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Coke Brick with name ct_shaped-1068452385
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Water Wheel with name ct_shaped-1028042134
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Case with name ct_shaped2125723499
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tier 1 Crafting Seed with name ct_shaped1858736566
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Inferium Ingot with name ct_shaped1075472758
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Inferium Ingot with name ct_shaped412783545
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Inferium Ingot with name ct_shapeless-243960583
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tier 2 Crafting Seed with name ct_shaped1314916982
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tier 2 Crafting Seed with name ct_shaped-367540852
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Prudentium Ingot with name ct_shaped-1677338186
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Prudentium Ingot with name ct_shaped1231923840
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Prudentium Ingot with name ct_shaped1872037209
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Prudentium Ingot with name ct_shapeless-250796421
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tier 3 Crafting Seed with name ct_shaped-1190592714
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Intermedium Ingot with name ct_shaped-1734112522
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Intermedium Ingot with name ct_shaped-963676423
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Intermedium Ingot with name ct_shapeless-257632259
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tier 4 Crafting Seed with name ct_shaped29603179
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Superium Ingot with name ct_shaped1342546774
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Superium Ingot with name ct_shaped495577241
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Superium Ingot with name ct_shapeless-264468097
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tier 5 Crafting Seed with name ct_shaped-105214952
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Supremium Ingot with name ct_shaped-747472222
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Supremium Ingot with name ct_shaped1954830905
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Supremium Ingot with name ct_shapeless-271303935
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tier 6 Crafting Seed with name ct_shaped-1826746427
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Insanium Ingot with name ct_shaped-502228629
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Insanium Ingot with name ct_shaped-1962823564
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Insanium Ingot with name ct_shapeless-641553729
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Nuclear Furnace with name ct_shaped891343779
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Copper Solenoid with name ct_shaped778960901
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Manufactory with name ct_shaped-55818141
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Chassis with name ct_shaped1345793427
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Alloy Furnace with name ct_shaped-1169438309
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Decay Generator with name ct_shaped1523751616
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Solar Panel with name ct_shaped1589258364
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Transistor with name ct_shaped-1448053738
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Microchip (Tier 1) with name ct_shaped-2023119865
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Microchip (Tier 2) with name ct_shaped1013636828
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Microchip (Tier 3) with name ct_shaped-929973782
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Quantum Tank with name ct_shaped-44731356
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Quantum Storage Unit with name ct_shaped-1003128092
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Quantum Storage Disk with name ct_shaped-349783195
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Quantum Fluid Disk with name ct_shaped1448482239
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Solderer with name ct_shaped2011246712
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pattern with name ct_shaped-1769875242
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Crafter with name ct_shaped2023611293
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Detector with name ct_shaped-136368933
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Wheels with name ct_shaped-2120435852
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Standard Hull with name ct_shaped-1692723120
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Reinforced Wheels with name ct_shaped1663167693
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Galgadorian Wheels with name ct_shaped1679738670
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Reinforced Hull with name ct_shaped-1897207124
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Galgadorian Hull with name ct_shaped-392309958
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Coal Engine with name ct_shaped-46446757
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Solar Engine with name ct_shaped-712339875
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Compact Solar Engine with name ct_shaped-251054995
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Thermal Engine with name ct_shaped-1109811652
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drill with name ct_shaped-1488788683
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Machine Frame with name ct_shaped-408785791
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Machine Frame with name ct_shaped693803404
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Insulated Copper Cable with name ct_shaped1305562977
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Insulated Copper Cable with name ct_shaped-1061973663
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Insulated Copper Cable with name ct_shapeless500705144
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Insulated Gold Cable with name ct_shaped-938698621
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Insulated Gold Cable with name ct_shapeless-2041630302
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Insulated HV Cable with name ct_shaped-1225730992
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Insulated HV Cable with name ct_shapeless-1711175550
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Smeltery Controller with name ct_shaped-695563639
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Strainer Base with name ct_shaped1661569550
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Factory Base with name ct_shaped-1618933925
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Redstone Proxy with name ct_shaped-1958609965
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Controller with name ct_shaped1633215444
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Router with name ct_shaped953795442
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wireless Router with name ct_shaped872311160
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Solderer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Solderer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Solderer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Solderer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Solderer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Solderer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:item_crystal_empowered>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:block_crystal_empowered>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:item_crystal_empowered:1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:block_crystal_empowered:1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:item_crystal_empowered:3>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:block_crystal_empowered:3>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:item_crystal_empowered:5>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:block_crystal_empowered:5>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:item_crystal_empowered:2>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:item_crystal_empowered:2>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:block_crystal_empowered:2>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:block_crystal_empowered:2>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:item_crystal_empowered:4>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:block_crystal_empowered:4>
+[AVAILABLE][CLIENT][INFO] Adding 1 Solderer Recipe(s) for <refinedstorage:processor:1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Solderer Recipe(s) for <refinedstorage:processor:1> * 9
+[AVAILABLE][CLIENT][INFO] Adding 1 Solderer Recipe(s) for <refinedstorage:processor:2>
+[AVAILABLE][CLIENT][INFO] Adding 1 Solderer Recipe(s) for <refinedstorage:processor:2> * 9
+[AVAILABLE][CLIENT][INFO] Adding 1 Solderer Recipe(s) for <refinedstorage:processor>
+[AVAILABLE][CLIENT][INFO] Adding 1 Solderer Recipe(s) for <refinedstorage:processor>
+[AVAILABLE][CLIENT][INFO] Adding 1 Solderer Recipe(s) for <refinedstorage:processor> * 9
