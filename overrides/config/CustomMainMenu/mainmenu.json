@@ -46,7 +46,7 @@
         },
 
         "server":{
-            "text":"Official Server",
+            "text":"Official Server (Currently Not Running)",
             "posX": -100,
             "posY": 13,
             "width":200,
@@ -54,7 +54,7 @@
             "alignment":"center",
             "action":{
                 "type":"connectToServer",
-                "ip":"193.31.24.180:25565"
+                "ip":""
             }
         },
         
