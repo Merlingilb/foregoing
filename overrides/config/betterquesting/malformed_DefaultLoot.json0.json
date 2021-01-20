@@ -1,0 +1,933 @@
+{
+  "groups": [
+    {
+      "name": "Basic",
+      "weight": 4,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "quark:pirate_hat",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "actuallyadditions:item_water_bowl",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "SGProperties:10": {},
+                "RepairCost:3": 0,
+                "display:10": {
+                  "Name:8": "Water Bucket"
+                },
+                "lastY:3": 128,
+                "lastX:3": 1025
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "actuallyadditions:item_leaf_blower",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "sonarcore:reinforceddirtbrick",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "chisel:waterstone1",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 15
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "tconstruct:wood_rail",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "stevescarts:modularcart",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "CartVersion:1": 2,
+                "Modules:7": [
+                  37,
+                  25
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "quark:stained_planks",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+      ]
+    },
+    {
+      "name": "Uncommon",
+      "weight": 4,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "tconstruct:slimesling",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "tconstruct:slime_boots",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "immersiveengineering:conveyor",
+			  "tag": {"conveyorType": "immersiveengineering:conveyor"}
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "immersiveengineering:conveyor",
+			  "tag": {"conveyorType": "immersiveengineering:vertical"}
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "immersiveengineering:conveyor",
+			  "tag": {"conveyorType": "immersiveengineering:splitter"}
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "immersiveengineering:conveyor",
+			  "tag": {"conveyorType": "immersiveengineering:dropper"}
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:cake",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:carrotcakeitem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:cheesecakeitem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:cherrycheesecakeitem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:chocolatesprinklecakeitem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:holidaycakeitem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:pineappleupsidedowncakeitem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:pumpkincheesecakeitem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "harvestcraft:redvelvetcakeitem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "actuallyadditions:block_smiley_cloud",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "chiselsandbits:chiseled_iron",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "side:3": 3,
+                "SGProperties:10": {},
+                "BlockEntityTag:10": {
+                  "b:3": 57,
+                  "side:1": 3,
+                  "s:3": 38,
+                  "nc:1": 0,
+                  "X:7": [
+                    120,
+                    -38,
+                    99,
+                    96,
+                    98,
+                    -80,
+                    100,
+                    104,
+                    96,
+                    -7,
+                    79,
+                    0,
+                    52,
+                    48,
+                    -32,
+                    -122,
+                    -8,
+                    101,
+                    71,
+                    -27,
+                    -121,
+                    -126,
+                    60,
+                    0,
+                    55,
+                    -66,
+                    -81,
+                    2
+                  ],
+                  "lv:3": 0
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "cookingforblockheads:cow_jar",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "chisel:futura",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2,
+              "tag": {
+                "RepairCost:3": 0,
+                "display:10": {
+                  "Name:8": "ME Controller"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "actuallyadditions:item_potion_ring",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 8
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "astralsorcery:itemusabledust",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "actuallyadditions:item_resonant_rice",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "mysticalagriculture:xp_droplet",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "darkutils:charm_gluttony",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "harvestcraft:beefjerkyitem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "tconstruct:edible",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 10
+            },
+            {
+              "id": "tconstruct:edible",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 11
+            },
+            {
+              "id": "tconstruct:edible",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 12
+            },
+            {
+              "id": "tconstruct:edible",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 13
+            },
+            {
+              "id": "tconstruct:edible",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 14
+            },
+            {
+              "id": "tconstruct:edible",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 15
+            },
+            {
+              "id": "tconstruct:edible",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 20
+            },
+            {
+              "id": "tconstruct:edible",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 21
+            },
+            {
+              "id": "tconstruct:edible",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 22
+            },
+            {
+              "id": "tconstruct:edible",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 23
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "chisel:energizedvoidstone",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "quark:duskbound_block",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "harvestcraft:theatreboxitem",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+      ]
+    },
+    {
+      "name": "Rare",
+      "weight": 3,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "exchangers:exiron",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "immersiveengineering:connector",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "immersiveengineering:connector:1",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "immersiveengineering:wirecoil",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "actuallyadditions:item_crystal",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "actuallyadditions:item_crystal:5",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "actuallyadditions:item_crystal:1",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "actuallyadditions:item_crystal:3",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "chancecubes:chance_cube",
+              "Count": 5,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:jukebox",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "nuclearcraft:record_end_of_the_world",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "nuclearcraft:record_wanderer",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "nuclearcraft:record_money_for_nothing",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "tinker_io:cd_lonesome_avenue",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "tconstruct:moms_spaghetti",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "actuallyadditions:item_hairy_ball",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "tconstruct:moms_spaghetti",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "darkutils:trap_tile",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "darkutils:trap_tile",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "darkutils:trap_tile",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 2
+            },
+            {
+              "id": "darkutils:trap_tile",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 3
+            },
+            {
+              "id": "darkutils:trap_tile",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 4
+            },
+            {
+              "id": "darkutils:trap_tile",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "chancecubes:chance_pendant_tier1",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+      ]
+    },
+    {
+      "name": "Epic",
+      "weight": 2,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "chancecubes:compact_giant_chance_cube",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "immersiveengineering:connector:2",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "immersiveengineering:connector:3",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "immersiveengineering:wirecoil:1",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "actuallyadditions:item_crystal:2",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "actuallyadditions:item_crystal:4",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "actuallyadditions:item_crystal_empowered",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "actuallyadditions:item_crystal_empowered:5",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "actuallyadditions:item_crystal_empowered:1",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "actuallyadditions:item_crystal_empowered:3",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "immersiveengineering:blueprint",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "blueprint:8": "specialBullet"
+              }
+            },
+            {
+              "id": "immersiveengineering:blueprint",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "blueprint:8": "electrode"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "nuclearcraft:fuel_californium",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 7
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "chancecubes:chance_pendant_tier2",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Legendary",
+      "weight": 1,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "draconicevolution:chaos_shard",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "immersiveengineering:connector:3",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "immersiveengineering:connector:4",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "immersiveengineering:wirecoil:2",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "actuallyadditions:item_crystal_empowered:2",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "actuallyadditions:item_crystal_empowered:4",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "quantumstorage:quantumstoragedisk",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Items:9": {},
+                "Stored:3": 0,
+                "Protocol:3": 1
+              }
+            },
+            {
+              "id": "quantumstorage:quantumstoragediskfluid",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Fluids:9": {},
+                "Stored:3": 0,
+                "Protocol:3": 1
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "extendedcrafting:storage",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "tconstruct:materials",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 50
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "techreborn:nuke",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "chancecubes:chance_pendant_tier3",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

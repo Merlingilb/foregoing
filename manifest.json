@@ -2,7 +2,7 @@
     "minecraft": {
         "version": "1.12.2",
         "modLoaders": [{
-                "id": "forge-14.23.5.2768",
+                "id": "forge-14.23.5.2855",
                 "primary": true
             }
         ]
@@ -10,7 +10,7 @@
     "manifestType": "minecraftModpack",
     "overrides": "overrides",
     "manifestVersion": 1,
-    "version": "1.0",
+    "version": "0.12.1.3",
     "author": "RemagOfficial",
     "projectID": 283187,
     "name": "Foregoing",
