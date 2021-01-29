@@ -1,0 +1,245 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  renderorder = background
+}
+
+customization {
+  path = resources/modpack/mainmenu/foregoing_title_screen.png
+  action = texturizebackground
+}
+
+customization {
+  action = setscale
+  scale = 3
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = top-left
+  x = 387
+  action = movebutton
+  y = 188
+}
+
+customization {
+  identifier = %id=502382%
+  width = 20
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/exit_hover.png
+  backgroundnormal = resources/modpack/mainmenu/exit.png
+}
+
+customization {
+  identifier = %id=502382%
+  action = sethoverlabel
+  label = 
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttondescription
+  description = Please Dont Leave :(
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = top-left
+  x = 267
+  action = movebutton
+  y = 188
+}
+
+customization {
+  identifier = %id=376382%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/lang.png
+  backgroundnormal = resources/modpack/mainmenu/lang.png
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = top-left
+  x = 291
+  action = movebutton
+  y = 188
+}
+
+customization {
+  identifier = %id=400382%
+  width = 20
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/settings.png
+  backgroundnormal = resources/modpack/mainmenu/settings.png
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = top-left
+  x = 331
+  action = movebutton
+  y = 130
+}
+
+customization {
+  identifier = %id=400322%
+  width = 205
+  action = resizebutton
+  height = 30
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-left
+  x = 127
+  action = movebutton
+  y = -50
+}
+
+customization {
+  identifier = %id=400298%
+  width = 205
+  action = resizebutton
+  height = 30
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = top-right
+  x = -513
+  action = movebutton
+  y = 161
+}
+
+customization {
+  identifier = %id=400346%
+  width = 205
+  action = resizebutton
+  height = 30
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  action = hidebutton
+}
+
+customization {
+  path = resources/modpack/logo/logo.png
+  orientation = top-left
+  x = 90
+  width = 486
+  action = addtexture
+  y = 42
+  height = 67
+}
+
+customization {
+  orientation = top-left
+  buttonaction = joinserver
+  x = 331
+  width = 205
+  action = addbutton
+  y = 161
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  label = Official Server
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+  value = Foregoing.modded.fun
+  height = 30
+}
+
+customization {
+  orientation = top-left
+  buttonaction = openlink
+  x = 337
+  width = 20
+  action = addbutton
+  y = 188
+  backgroundhovered = resources/modpack/mainmenu/discord.png
+  description = Click to join our Discord
+  label = 
+  backgroundnormal = resources/modpack/mainmenu/discord.png
+  value = https://discord.gg/BvmMpvA4
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  buttonaction = openlink
+  x = 362
+  width = 20
+  action = addbutton
+  y = 188
+  backgroundhovered = resources/modpack/mainmenu/bug.png
+  description = Report a bug
+  label = 
+  backgroundnormal = resources/modpack/mainmenu/bug.png
+  value = https://github.com/Merlingilb/foregoing/issues
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  buttonaction = openlink
+  x = 314
+  width = 20
+  action = addbutton
+  y = 188
+  backgroundhovered = resources/modpack/mainmenu/patreon2.png
+  description = Become A Patreon!
+  label = 
+  backgroundnormal = resources/modpack/mainmenu/patreon2.png
+  value = https://www.patreon.com/minecraftdaniel
+  height = 20
+}
+
