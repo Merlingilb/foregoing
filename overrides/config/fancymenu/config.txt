@@ -36,8 +36,8 @@ B:hideforgenotifications = 'false';
 
 S:splashcolor = '#ffff00';
 I:splashrotation = '20';
-I:splashy = '0';
-I:splashx = '150';
+I:splashy = '75';
+I:splashx = '265';
 B:hidesplashtext = 'false';
 S:splashtextfile = 'resources/modpack/texts/splashes.txt';
 S:splashorientation = 'original';
@@ -62,6 +62,6 @@ B:customwindowicon = 'false';
 
 ##[layouteditor]
 
-F:popupmenuscale = '1.0';
+F:popupmenuscale = '0.5';
 [If the warning when trying to move an vanilla button without an orientation should be displayed or not.]
 B:showvanillamovewarning = 'false';

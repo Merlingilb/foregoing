@@ -10,24 +10,24 @@ customization {
   action = texturizebackground
 }
 
-customization {
-  action = setscale
-  scale = 3
-}
+#customization {
+#  action = setscale
+#  scale = 3
+#}
 
 customization {
   identifier = %id=502382%
   orientation = top-left
-  x = 387
   action = movebutton
-  y = 188
+  x = %guiwidth%/2 + (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5/5*3 + (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5*2
+  y = %guiheight%/2 + (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
 }
 
 customization {
   identifier = %id=502382%
-  width = 20
   action = resizebutton
-  height = 20
+  width = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
 }
 
 customization {
@@ -45,22 +45,23 @@ customization {
 
 customization {
   identifier = %id=502382%
-  action = sethoverlabel
-  label = 
-}
-
-customization {
-  identifier = %id=502382%
   action = setbuttondescription
-  description = Please Dont Leave :(
+  description = Exit the Game
 }
 
 customization {
   identifier = %id=376382%
   orientation = top-left
-  x = 267
   action = movebutton
-  y = 188
+  x = %guiwidth%/2 - (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5/5*3 - (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5*3
+  y = %guiheight%/2 + (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
+}
+
+customization {
+  identifier = %id=376382%
+  action = resizebutton
+  width = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
 }
 
 customization {
@@ -71,18 +72,24 @@ customization {
 }
 
 customization {
-  identifier = %id=400382%
-  orientation = top-left
-  x = 291
-  action = movebutton
-  y = 188
+  identifier = %id=376382%
+  action = setbuttondescription
+  description = Change The Language
 }
 
 customization {
   identifier = %id=400382%
-  width = 20
+  orientation = top-left
+  action = movebutton
+  x = %guiwidth%/2 - (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5/5*2 - (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5*2
+  y = %guiheight%/2 + (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
+}
+
+customization {
+  identifier = %id=400382%
   action = resizebutton
-  height = 20
+  width = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
 }
 
 customization {
@@ -99,18 +106,24 @@ customization {
 }
 
 customization {
+  identifier = %id=400382%
+  action = setbuttondescription
+  description = Settings
+}
+
+customization {
   identifier = %id=400322%
   orientation = top-left
-  x = 331
   action = movebutton
-  y = 130
+  x = %guiwidth%/2 - 2
+  y = %guiheight%/2 - (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
 }
 
 customization {
   identifier = %id=400322%
-  width = 205
   action = resizebutton
-  height = 30
+  width = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2
 }
 
 customization {
@@ -122,17 +135,17 @@ customization {
 
 customization {
   identifier = %id=400298%
-  orientation = mid-left
-  x = 127
+  orientation = top-left
   action = movebutton
-  y = -50
+  x = %guiwidth%/2 + 2 - (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  y = %guiheight%/2 - (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
 }
 
 customization {
   identifier = %id=400298%
-  width = 205
   action = resizebutton
-  height = 30
+  width = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2
 }
 
 customization {
@@ -144,17 +157,17 @@ customization {
 
 customization {
   identifier = %id=400346%
-  orientation = top-right
-  x = -513
+  orientation = top-left
   action = movebutton
-  y = 161
+  x = %guiwidth%/2 + 2 - (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  y = %guiheight%/2
 }
 
 customization {
   identifier = %id=400346%
-  width = 205
   action = resizebutton
-  height = 30
+  width = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2
 }
 
 customization {
@@ -177,69 +190,69 @@ customization {
 customization {
   path = resources/modpack/logo/logo.png
   orientation = top-left
-  x = 90
-  width = 486
+  x = %guiwidth%/10
+  width = %guiwidth%/5*4
   action = addtexture
-  y = 42
-  height = 67
+  y = %guiheight%/2 - (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 - %guiwidth%/5*4*67/486 - 20
+  height = %guiwidth%/5*4*67/486
 }
 
 customization {
   orientation = top-left
   buttonaction = joinserver
-  x = 331
-  width = 205
+  x = %guiwidth%/2 - 2
+  width = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2
+  y = %guiheight%/2
   action = addbutton
-  y = 161
   backgroundhovered = resources/modpack/mainmenu/buttontexture.png
   label = Official Server
   backgroundnormal = resources/modpack/mainmenu/buttontexture.png
   value = Foregoing.modded.fun
-  height = 30
 }
 
 customization {
   orientation = top-left
   buttonaction = openlink
-  x = 337
-  width = 20
+  x = %guiwidth%/2 + (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5/5
+  y = %guiheight%/2 + (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
+  width = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
   action = addbutton
-  y = 188
   backgroundhovered = resources/modpack/mainmenu/discord.png
   description = Click to join our Discord
   label = 
   backgroundnormal = resources/modpack/mainmenu/discord.png
   value = https://discord.gg/BvmMpvA4
-  height = 20
 }
 
 customization {
   orientation = top-left
   buttonaction = openlink
-  x = 362
-  width = 20
+  x = %guiwidth%/2 + (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5/5*2 + (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  y = %guiheight%/2 + (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
+  width = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
   action = addbutton
-  y = 188
   backgroundhovered = resources/modpack/mainmenu/bug.png
   description = Report a bug
   label = 
   backgroundnormal = resources/modpack/mainmenu/bug.png
   value = https://github.com/Merlingilb/foregoing/issues
-  height = 20
 }
 
 customization {
   orientation = top-left
   buttonaction = openlink
-  x = 314
-  width = 20
+  x = %guiwidth%/2 - (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5/5 - (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  y = %guiheight%/2 + (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
+  width = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
   action = addbutton
-  y = 188
   backgroundhovered = resources/modpack/mainmenu/patreon2.png
   description = Become A Patreon!
   label = 
   backgroundnormal = resources/modpack/mainmenu/patreon2.png
   value = https://www.patreon.com/minecraftdaniel
-  height = 20
 }
 
