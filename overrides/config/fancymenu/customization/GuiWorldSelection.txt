@@ -1,0 +1,144 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiWorldSelection
+  renderorder = foreground
+}
+
+#customization {
+#  action = setscale
+#  scale = 3
+#}
+
+#customization {
+#  identifier = %id=582972%
+#  orientation = top-left
+#  x = 410
+#  action = movebutton
+#  y = 326
+#}
+#
+#customization {
+#  identifier = %id=582972%
+#  width = 84
+#  action = resizebutton
+#  height = 30
+#}
+
+customization {
+  identifier = %id=582972%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+#customization {
+#  identifier = %id=504972%
+#  orientation = top-left
+#  x = 324
+#  action = movebutton
+#  y = 326
+#}
+#
+#customization {
+#  identifier = %id=504972%
+#  width = 84
+#  action = resizebutton
+#  height = 30
+#}
+
+customization {
+  identifier = %id=504972%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+#customization {
+#  identifier = %id=346948%
+#  orientation = top-left
+#  x = 161
+#  action = movebutton
+#  y = 297
+#}
+#
+#customization {
+#  identifier = %id=346948%
+#  width = 157
+#  action = resizebutton
+#  height = 30
+#}
+
+customization {
+  identifier = %id=346948%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+#customization {
+#  identifier = %id=504948%
+#  orientation = top-left
+#  x = 326
+#  action = movebutton
+#  y = 297
+#}
+#
+#customization {
+#  identifier = %id=504948%
+#  width = 157
+#  action = resizebutton
+#  height = 30
+#}
+
+customization {
+  identifier = %id=504948%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+#customization {
+#  identifier = %id=346972%
+#  orientation = top-left
+#  x = 151
+#  action = movebutton
+#  y = 326
+#}
+#
+#customization {
+#  identifier = %id=346972%
+#  width = 84
+#  action = resizebutton
+#  height = 30
+#}
+
+customization {
+  identifier = %id=346972%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+#customization {
+#  identifier = %id=424972%
+#  orientation = top-left
+#  x = 238
+#  action = movebutton
+#  y = 326
+#}
+#
+#customization {
+#  identifier = %id=424972%
+#  width = 84
+#  action = resizebutton
+#  height = 30
+#}
+
+customization {
+  identifier = %id=424972%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
