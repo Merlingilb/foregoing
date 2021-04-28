@@ -1,0 +1,49 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraftforge.fml.client.GuiModList
+  renderorder = foreground
+}
+
+customization {
+  identifier = %id=1010%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=480962%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=10951%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=11210%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=10973%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=6110%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+

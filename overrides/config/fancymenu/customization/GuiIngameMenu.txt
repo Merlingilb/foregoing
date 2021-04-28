@@ -1,0 +1,61 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiIngameMenu
+  renderorder = foreground
+}
+
+customization {
+  identifier = %id=400354%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=400258%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=400306%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=400330%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=400282%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=502330%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=502282%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=376330%
+  action = hidebutton
+}
+

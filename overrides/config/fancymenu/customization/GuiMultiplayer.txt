@@ -1,0 +1,63 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMultiplayer
+  renderorder = foreground
+}
+
+customization {
+  identifier = %id=346948%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=450948%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=580972%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=55%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=346972%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=426972%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=504972%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=554948%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+

@@ -1,0 +1,240 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  renderorder = background
+}
+
+customization {
+  path = resources/modpack/mainmenu/foregoing_title_screen.png
+  action = texturizebackground
+}
+
+#customization {
+#  action = setscale
+#  scale = 3
+#}
+
+customization {
+  identifier = %id=502382%
+  orientation = top-left
+  action = movebutton
+  x = %guiwidth%/2 + (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5/5*3 + (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5*2
+  y = %guiheight%/2 + (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
+}
+
+customization {
+  identifier = %id=502382%
+  action = resizebutton
+  width = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/exit_hover.png
+  backgroundnormal = resources/modpack/mainmenu/exit.png
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttondescription
+  description = Exit the Game
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = top-left
+  action = movebutton
+  x = %guiwidth%/2 - (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5/5*3 - (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5*3
+  y = %guiheight%/2 + (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
+}
+
+customization {
+  identifier = %id=376382%
+  action = resizebutton
+  width = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+}
+
+customization {
+  identifier = %id=376382%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/lang.png
+  backgroundnormal = resources/modpack/mainmenu/lang.png
+}
+
+customization {
+  identifier = %id=376382%
+  action = setbuttondescription
+  description = Change The Language
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = top-left
+  action = movebutton
+  x = %guiwidth%/2 - (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5/5*2 - (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5*2
+  y = %guiheight%/2 + (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
+}
+
+customization {
+  identifier = %id=400382%
+  action = resizebutton
+  width = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/settings.png
+  backgroundnormal = resources/modpack/mainmenu/settings.png
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttondescription
+  description = Settings
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = top-left
+  action = movebutton
+  x = %guiwidth%/2 - 2
+  y = %guiheight%/2 - (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
+}
+
+customization {
+  identifier = %id=400322%
+  action = resizebutton
+  width = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = top-left
+  action = movebutton
+  x = %guiwidth%/2 + 2 - (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  y = %guiheight%/2 - (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
+}
+
+customization {
+  identifier = %id=400298%
+  action = resizebutton
+  width = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = top-left
+  action = movebutton
+  x = %guiwidth%/2 + 2 - (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  y = %guiheight%/2
+}
+
+customization {
+  identifier = %id=400346%
+  action = resizebutton
+  width = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttontexture
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  action = hidebutton
+}
+
+customization {
+  path = resources/modpack/logo/logo.png
+  orientation = top-left
+  x = %guiwidth%/10
+  width = %guiwidth%/5*4
+  action = addtexture
+  y = %guiheight%/2 - (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 - %guiwidth%/5*4*67/486 - 20
+  height = %guiwidth%/5*4*67/486
+}
+
+customization {
+  orientation = top-left
+  buttonaction = joinserver
+  x = %guiwidth%/2 - 2
+  width = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2
+  y = %guiheight%/2
+  action = addbutton
+  backgroundhovered = resources/modpack/mainmenu/buttontexture.png
+  label = Official Server
+  backgroundnormal = resources/modpack/mainmenu/buttontexture.png
+  value = Foregoing.modded.fun
+}
+
+customization {
+  orientation = top-left
+  x = %guiwidth%/2 + (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5/5
+  y = %guiheight%/2 + (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
+  width = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  action = addbutton
+}
+
+customization {
+  orientation = top-left
+  x = %guiwidth%/2 + (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5/5*2 + (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  y = %guiheight%/2 + (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
+  width = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  action = addbutton
+}
+
+customization {
+  orientation = top-left
+  x = %guiwidth%/2 - (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5/5 - (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  y = %guiheight%/2 + (%guiwidth%/3 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))/306*27*2 + 5
+  width = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  height = (%guiwidth%/30 * (1/(%guiwidth%*%guiwidth%*0.000001 + 1)))*1.5
+  action = addbutton
+}
+
